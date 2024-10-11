@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"></head>
+	<link rel="stylesheet" href="style2.css">
+	<link rel = "icon" href = "C:\Users\User\Desktop\estrella\foto.jpg" size = "16x16" type = "image/jpg">	
+	<title>Estrella Vasquez | Curriculum Vitae</title>
+</head>
+<body>
+	<header id="arriba" class="parallax">
+		<div id="header-img">
+			<img src="C:\Users\User\Desktop\estrella\estrella.jpg">
+		</div>
+		<div class="exp-text">
+			<div>
+			<h1>&lt;Estrella Mabel Vasquez Dieguez/&gt;</h1>
+			<h3>16 años</h3>
+			</div>
+		</div>	
+	</header>
+
+	<nav id="menu">
+		<ul>
+			<li><a href="#info">Información</a></li>
+			<li><a href="#edu">Educación</a></li>
+			</ul>
+	</nav>
+
+	<div id="info">
+		<div>
+		<h4>Información</h4>
+		<br>
+		<hr>
+		<br>
+		<ul>
+			<li>(502)44122783=</li>
+			<li><a href="mailto:estrellavas1802@gmail.com">estrellavas1802@gmail.com</a></li>
+			<li>8a avenida 3-47 zona 1 Villa Nueva</li>
+			<li>DNI: 54564654650101</li>
+		</ul>
+		</div>
+	</div>
+
+	<aside id="edu">
+		<h4>Educación</h4>
+		<br>
+		<hr>
+		<ul>
+			<li>
+				<article>
+					<div class="exp-img">
+						<img src="C:\Users\User\Desktop\estrella\logo ineb.jpeg">
+					</div>
+					<div class="exp-text">
+						<p class="periodo">2021 - Actualidad</p>
+						<p class="titulo">Basicos completo</p>
+						<p class="descripcion">En el INEB JM</p>
+					</div>
+				</article>
+			</li>
+			<li>
+				<article>
+					<div class="exp-img">
+						<img src="C:\Users\User\Desktop\estrella\federal.png">
+					</div>
+					<div class="exp-text">
+						<p class="periodo">Feb 2014 - Nov 2020</p>
+						<p class="titulo">6 to Primaria</p>
+						<p class="descripcion">Escuela Federal JM</p>
+
+					</div>
+				</article>				
+			</li>									
+		</ul>
+	</div>
+	<footer>
+		<div>
+			<p>Sitio desarrollado por Estrella Vasquez.<br><a href="#arriba">Volver arriba</a></p>
+			
+		</div>
+	</footer>
+</body>
+</html>
